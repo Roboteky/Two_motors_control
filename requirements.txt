@@ -1,0 +1,7 @@
+            
+
+         * Controlling two motors with a driver.
+
+         * Driver of choice is LM293D.
+
+         * The motors should turn forward and backwards after a certain interval.
